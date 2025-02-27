@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.redcolor{
+    color: #1390BE;
+    font-style: italic;
+}
+.bg{
+    background-image: url(../../../../../../GitHub/PRJ4-CV/images/bg.jpg);	
+}
